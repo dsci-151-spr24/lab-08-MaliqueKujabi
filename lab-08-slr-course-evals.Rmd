@@ -155,7 +155,7 @@ ggtitle("Scatter plot of Average Beauty Rating to Average Evaluation Score")
 7.  Interpret the intercept of the linear model in context of the data.
     Comment on whether or not the intercept makes sense in this context.
     
-***For an average beauty increased by 1 the average evaluation rating goes up by 0.07**
+***For an average beauty rating of 0 the average evaluation rating is 3.88. This doesn't make sense in the data as there are not beauty ratings that are 0.**
 
 🧶 ✅ ⬆️ *If you haven't done so recently, knit, commit, and push your changes to GitHub with an appropriate commit message. Make sure to commit and push all changed files so that your Git pane is cleared up afterwards.*
 
